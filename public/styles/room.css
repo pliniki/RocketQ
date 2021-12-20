@@ -145,3 +145,66 @@
 .questions-wrapper.read .question-content .user {
   background: var(--grey-blue);
 }
+
+/* Footer
+
+footer {
+  height: 250px;
+
+  background-color: var(--light-blue);
+}
+
+footer .social-media {
+  align-items: center;
+}
+
+footer .social-media .icons {
+  width: 40px;
+  height: 40px;
+  background: url(../images/social-transp.png);
+  text-indent: -9999px;
+  display: block;
+  margin: 5px 5px 5px 0;
+}
+
+footer .social-media .icon-box {
+  display: flex;
+}
+
+footer .social-media .facebook {
+  background-position: 162px -23px;
+}
+
+footer .social-media .instagram {
+  background-position: 2px -24px;
+}
+
+footer .social-media .youtube {
+  background-position: -122px -23px;
+}
+*/
+
+/*======================No questions===========================*/
+.no-questions {
+  text-align: center;
+  margin-top: 5.2rem;
+}
+
+.no-questions img {
+  max-width: 100%;
+  margin-bottom: 1.2rem;
+}
+
+.no-questions p {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+
+.no-questions p + p {
+  font-family: 'Opens Sans', sans-serif;
+  font-size: 1.4rem;
+  font-weight: 400;
+  margin-top: 1.3rem;
+  line-height: 1.9rem;
+}
